@@ -1,5 +1,5 @@
 # existential_consistency_sosp2015
-# Linearizability_checker_demo demonstrates how the DAG-based algorithm works.
+# algr_diagrams.pptx demonstrates how the DAG-based algorithm works.
 # It shows 
 #     (1) how the graph is built (vertices are constructed, and edges are added)
 #     (2) Read-ahead cases
