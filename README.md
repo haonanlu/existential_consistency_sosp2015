@@ -5,4 +5,4 @@
 #     (2) Read-ahead cases
 #     (3) Adjust-response-time cases
 #     (4) how an anomaly is identified
-#     (5) exmaples (simple to complex)
+#     (5) examples (simple to complex)
